@@ -1,0 +1,13 @@
+C:\Users\Bla\source\repos\DataTypes\20.betterSolvedWorklOut\bin\Debug\netcoreapp3.1\20.betterSolvedWorklOut.exe
+C:\Users\Bla\source\repos\DataTypes\20.betterSolvedWorklOut\bin\Debug\netcoreapp3.1\20.betterSolvedWorklOut.deps.json
+C:\Users\Bla\source\repos\DataTypes\20.betterSolvedWorklOut\bin\Debug\netcoreapp3.1\20.betterSolvedWorklOut.runtimeconfig.json
+C:\Users\Bla\source\repos\DataTypes\20.betterSolvedWorklOut\bin\Debug\netcoreapp3.1\20.betterSolvedWorklOut.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\DataTypes\20.betterSolvedWorklOut\bin\Debug\netcoreapp3.1\20.betterSolvedWorklOut.dll
+C:\Users\Bla\source\repos\DataTypes\20.betterSolvedWorklOut\bin\Debug\netcoreapp3.1\20.betterSolvedWorklOut.pdb
+C:\Users\Bla\source\repos\DataTypes\20.betterSolvedWorklOut\obj\Debug\netcoreapp3.1\20.betterSolvedWorklOut.csprojAssemblyReference.cache
+C:\Users\Bla\source\repos\DataTypes\20.betterSolvedWorklOut\obj\Debug\netcoreapp3.1\20.betterSolvedWorklOut.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\DataTypes\20.betterSolvedWorklOut\obj\Debug\netcoreapp3.1\20.betterSolvedWorklOut.AssemblyInfo.cs
+C:\Users\Bla\source\repos\DataTypes\20.betterSolvedWorklOut\obj\Debug\netcoreapp3.1\20.betterSolvedWorklOut.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\DataTypes\20.betterSolvedWorklOut\obj\Debug\netcoreapp3.1\20.betterSolvedWorklOut.dll
+C:\Users\Bla\source\repos\DataTypes\20.betterSolvedWorklOut\obj\Debug\netcoreapp3.1\20.betterSolvedWorklOut.pdb
+C:\Users\Bla\source\repos\DataTypes\20.betterSolvedWorklOut\obj\Debug\netcoreapp3.1\20.betterSolvedWorklOut.genruntimeconfig.cache
